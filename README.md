@@ -5,6 +5,7 @@ Clone da pagina de empregos do google utilizando vue
 - Vue
 - Pinia
 - Vue Router
+- VueX
 - Vitest
 - Tailwind CSS
 - TypeScript
